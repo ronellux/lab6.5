@@ -1,1 +1,57 @@
-/* Add screen styles below */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap');
+
+body{
+    background-color: #5A5A5A;
+}
+
+.header {
+    color: white;
+    text-align: center;
+    font-family: "Inter";
+    font-weight: bold;
+    width: 860px;
+    margin: 20px;
+    padding: 10px;
+    font-size: 30px;
+}
+
+.pic1 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 40px;
+    border-radius: 10px;
+  }
+
+.pic2{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 40px;
+    border-radius: 10px;
+  }
+
+  .pic3{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 40px;
+    border-radius: 10px;
+  }
+  
+  .pic4{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 40px;
+    border-radius: 10px;
+  }
+
+  .pic5{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 40px;
+    border-radius: 10px;
+  }
+
